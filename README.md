@@ -22,3 +22,6 @@ How to use:
 8.About
     - Info about project
     
+You should change the path to the icon in the code. All the icon in the image folder
+
+Install sqlite and use the file dblibrary.db to import to your sqlite ( Recommend using sqlite studio for friendly UI sqlite)
